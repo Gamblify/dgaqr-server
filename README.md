@@ -1,2 +1,3 @@
-# dgaqr-server
-Server that hosts the TLS certificate for the machines and verifiers to download
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+
+Run the code using `dart run bin/dgaqr_server.dart`
